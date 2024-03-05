@@ -1,9 +1,7 @@
 
 # Sales and Promotion Analysis
 
-### Dashboard Link :https://www.novypro.com/project/festivesales-promotion-analysis
-
-
+### Dashboard Link :https://app.powerbi.com/view?r=eyJrIjoiYTZlNWQ1NDgtZTc0Mi00Y2RmLTgwZmYtZmM3MzczNmMwNDRlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 ## Problem Statement
 
 AtliQ Mart, a prominent retail chain with 50 supermarkets in southern India, conducted extensive promotions-for their AtliQ branded products during Diwali 2023 and Sankranti 2024. The sales director aims to assess the success of these promotions across all stores to make data-driven decisions for future promotional strategies.
